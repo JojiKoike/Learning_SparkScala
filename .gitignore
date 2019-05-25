@@ -142,3 +142,5 @@ project/plugins/project/
 .cache
 .lib/
 
+.scala-version
+
