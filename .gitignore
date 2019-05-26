@@ -144,3 +144,4 @@ project/plugins/project/
 
 .scala-version
 
+/.idea/modules/sparkscala-build.iml
